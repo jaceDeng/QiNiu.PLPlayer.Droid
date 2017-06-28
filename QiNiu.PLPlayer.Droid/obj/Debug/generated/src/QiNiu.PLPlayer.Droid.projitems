@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DefineConstants>$(DefineConstants);ANDROID_1;ANDROID_2;ANDROID_3;ANDROID_4;ANDROID_5;ANDROID_6;ANDROID_7;ANDROID_8;ANDROID_9;ANDROID_10;ANDROID_11;ANDROID_12;ANDROID_13;ANDROID_14;ANDROID_15;ANDROID_16;ANDROID_17;ANDROID_18;ANDROID_19;ANDROID_20;ANDROID_21;ANDROID_22;ANDROID_23;ANDROID_24;ANDROID_25</DefineConstants>
+  </PropertyGroup>
+  <!-- Classes -->
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Pili.Pldroid.Player.AVOptions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Pili.Pldroid.Player.Common.Config.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Pili.Pldroid.Player.Common.Util.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Pili.Pldroid.Player.IMediaController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Pili.Pldroid.Player.PlayerCode.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Pili.Pldroid.Player.PlayerState.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Pili.Pldroid.Player.PLMediaPlayer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Pili.Pldroid.Player.PLNetworkManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Pili.Pldroid.Player.SharedLibraryNameHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Pili.Pldroid.Player.Widget.PLVideoTextureView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Pili.Pldroid.Player.Widget.PLVideoView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Java.Interop.__TypeRegistrations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.AbstractMediaPlayer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.Annotations.AccessedByNativeAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.Annotations.CalledByNativeAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.Annotations.IAccessedByNative.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.Annotations.ICalledByNative.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.Ffmpeg.FFmpegApi.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.IIjkLibLoader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.IjkMediaCodecInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.IjkMediaMeta.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.IMediaPlayer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.MediaInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.Misc.IjkMediaFormat.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.Misc.IjkTrackInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.Misc.IMediaDataSource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.Misc.IMediaFormat.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.Misc.ITrackInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.Pragma.DebugLog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\TV.Danmaku.Ijk.Media.Player.Pragma.Pragma.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\__NamespaceMapping__.cs" />
+  </ItemGroup>
+  <!-- Enums -->
+  <ItemGroup />
+</Project>

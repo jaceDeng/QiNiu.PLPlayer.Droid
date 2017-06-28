@@ -1,0 +1,8 @@
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.pili.pldroid.player", Managed="Com.Pili.Pldroid.Player")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.pili.pldroid.player.common", Managed="Com.Pili.Pldroid.Player.Common")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.pili.pldroid.player.widget", Managed="Com.Pili.Pldroid.Player.Widget")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "tv.danmaku.ijk.media.player", Managed="TV.Danmaku.Ijk.Media.Player")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "tv.danmaku.ijk.media.player.annotations", Managed="TV.Danmaku.Ijk.Media.Player.Annotations")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "tv.danmaku.ijk.media.player.ffmpeg", Managed="TV.Danmaku.Ijk.Media.Player.Ffmpeg")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "tv.danmaku.ijk.media.player.misc", Managed="TV.Danmaku.Ijk.Media.Player.Misc")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "tv.danmaku.ijk.media.player.pragma", Managed="TV.Danmaku.Ijk.Media.Player.Pragma")]
